@@ -1,9 +1,11 @@
-
+import { createBrowserRouter, Routes, Route } from "react-router-dom"
 
 function App() {
   return (
-    <div>App</div>
+    <Routes>
+
+    </Routes>
   )
 }
 
-export default App
+export default App 
